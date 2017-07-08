@@ -6,7 +6,7 @@ import com.everis.alicante.courses.becajava.garage.ui.GarageMenu;
  * The type Garage main.
  */
 public class GarageMain {
-//Comentario para GIT
+//Comentario para GIT con conflicto
     /**
      * The entry point of application.
      *
